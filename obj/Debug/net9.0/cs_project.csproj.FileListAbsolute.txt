@@ -12,3 +12,4 @@
 /Users/admin/projects/cs_project/obj/Debug/net9.0/cs_project.pdb
 /Users/admin/projects/cs_project/obj/Debug/net9.0/cs_project.genruntimeconfig.cache
 /Users/admin/projects/cs_project/obj/Debug/net9.0/ref/cs_project.dll
+/Users/admin/projects/cs_project/obj/Debug/net9.0/cs_project.sourcelink.json
